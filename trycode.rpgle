@@ -1,4 +1,11 @@
      // code 
 
-     dcl-c name value;
-     dcl-s name char(length) keywords;
+     
+      dcl-s name char(10) ;
+
+      
+      name = "Yogesh";
+      dsply name;
+
+       *inlr = *on ;
+       
